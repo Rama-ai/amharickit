@@ -1,1 +1,3 @@
-# amharickit
+# amharikit
+
+Amharic NLP Library
